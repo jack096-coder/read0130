@@ -1,1 +1,6 @@
-
+streamlit
+streamlit-cropper
+opencv-python-headless
+numpy
+Pillow
+pandas
